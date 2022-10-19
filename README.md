@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2001Marty React - Typescript Developer
+- 👋 Hi, I’m Martin React - Typescript Developer
 - 👀 I’m interested in Programming, Cars, Music, Skateboarding
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on my <b>Personal Website Desing</b>
